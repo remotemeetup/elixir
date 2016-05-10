@@ -1,4 +1,4 @@
-# Ruby Remote Meetups
+# Elixir Remote Meetups
 
 ## Kickoff a new Elixir remote meetup
 If you want to present at our Elixir Remote Meetup, please head to our issue list to [open a new issue](https://github.com/remotemeetup/elixir/issues/new) and fill in all the information for the event.
